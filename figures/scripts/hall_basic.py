@@ -3,7 +3,7 @@
 import os
 from plot import Plot
 
-data_dir = "../simoutput/hall"
+data_dir = "simoutput/hall"
 data_files = os.listdir(data_dir)
 data_files = [os.path.join(data_dir, data_file) for data_file in data_files]
 
