@@ -1,4 +1,4 @@
-# paper-asreview-introduction
+# Simulation study
 This directory contains scripts to reproduce reproduce the results of Figure 4 for the paper ' ASReview: Open Source Software for Efficient and Transparent Systematic Reviews'. It consists of three parts: 1) optimizing hyperparameters, 2) simulating systematic reviews, 3) visualizing the simulation results.
 
 Figure 4 displays the performance of an Automated Systematic Review model (Naive Bayes + TF-IDF + Certainty + Dynamic Supersampling) over 15 runs on four already labeled datasets: (A) the virus dataset, (B) the hall dataset, (C) PTSD dataset, (4) ACE dataset.
