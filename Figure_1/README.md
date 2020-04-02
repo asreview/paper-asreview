@@ -1,5 +1,5 @@
 # Number of publications
-This directory contains scripts to reproduce reproduce the results of Figure 1 for the paper ' ASReview: Open Source Software for Efficient and Transparent Systematic Reviews'. It consists of three parts: 1) getting the data, 2) processing the data for visualization, 3) visualizing the data.
+This directory contains scripts to reproduce the results of Figure 1 for the paper ' ASReview: Open Source Software for Efficient and Transparent Systematic Reviews'. It consists of three parts: 1) getting the data, 2) processing the data for visualization, 3) visualizing the data.
 
 Figure 1 displays the number of new COVID-19 publications per week from Nov 14, 2019 until March 15, 2020, as well as the cumulative number over this time period. 
 
@@ -21,4 +21,12 @@ install.packages("tidyverse")
 install.packages("lubridate")
 install.packages("rcrossref")
 install.packages("europepmc")
+```
+
+For part 3 (visualizing data), the following python packages are required
+
+```
+pip install pandas
+pip install numpy
+pip install matplotlib.pyplot
 ```
