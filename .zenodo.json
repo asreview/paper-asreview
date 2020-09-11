@@ -1,5 +1,5 @@
 {
-	"description": "",
+	"description": "This repository contains the scripts of the simulation study found in the paper ASReview: Open Source Software for Efficient and Transparent Active Learning for Systematic Reviews. This paper introduces the ASReview project and the ASReview LAB software. The results of the simulation study are available via: 10.17605/OSF.IO/2JKD6.",
 	"title": "Scripts for 'ASReview: Open Source Software for Efficient and Transparent Active Learning for Systematic Reviews'",
 	"creators": [
 		{
