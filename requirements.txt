@@ -1,5 +1,4 @@
-asreview==0.7.2
+asreview>=0.13
 asreview-hyperopt
 asreview-visualization
--e git://github.com:asreview/automated-systematic-review-simulations.git@c06d6d1707f9895e2b5627bf7a41956d9d5b143c#egg=automated-systematic-review-simulations
 mpi4py

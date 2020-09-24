@@ -4,9 +4,9 @@ This repository contains the scripts of the simulation study found in the paper 
 
 ## Installation
 
-Running this simulation study requires Python 3.6+. The results in this repository are generated with ASReview v0.7.2. To run the code in parallel, you also need an implementation of the MPI standard. The most well known standard is [OpenMPI](https://www.open-mpi.org/) (this is not a python package and should be installed separately).
+Running this simulation study requires Python 3.6+. The results in this repository have been generated with ASReview v0.7.2. To run the code in parallel, you also need an implementation of the MPI standard. The most well known standard is [OpenMPI](https://www.open-mpi.org/) (this is not a python package and should be installed separately). The details for running the scripts with this older version of ASReview are available on [Zenodo](https://zenodo.org/record/4024122).
 
-Install the python depencies with
+It is recommended to use a newer version of ASReview. The new python dependencies can be installed by:
 ```
 pip install -r requirements.txt
 ```
