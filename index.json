@@ -1,4 +1,26 @@
 {
+  "van_de_Schoot_2017": {
+    "dataset_id": "van_de_Schoot_2017",
+    "url": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/ptsd.csv",
+    "reference": "https://doi.org/10.1080/00273171.2017.1412293",
+    "link": "https://osf.io/h5k2q/",
+    "license": "CC-BY Attribution 4.0 International",
+    "title": "Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation",
+    "authors": [
+      "van de Schoot, R.",
+      "Sijbrandij, M.",
+      "Depaoli, S.",
+      "Winter, S. D.",
+      "Olff, M.",
+      "van Loey, N. E."
+    ],
+    "year": 2018,
+    "topic": "PTSD Trajectories",
+    "final_inclusions": true,
+    "title_abstract_inclusions": true,
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ptsd.png",
+    "type": "base"
+  },
   "Cohen_2006_ACEInhibitors": {
     "dataset_id": "Cohen_2006_ACEInhibitors",
     "url": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/ace.csv",
@@ -57,28 +79,6 @@
     "topic": "Virus Metagenomics",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "type": "base"
-  },
-  "van_de_Schoot_2017": {
-    "dataset_id": "van_de_Schoot_2017",
-    "url": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/ptsd.csv",
-    "reference": "https://doi.org/10.1080/00273171.2017.1412293",
-    "link": "https://osf.io/h5k2q/",
-    "license": "CC-BY Attribution 4.0 International",
-    "title": "Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation",
-    "authors": [
-      "van de Schoot, R.",
-      "Sijbrandij, M.",
-      "Depaoli, S.",
-      "Winter, S. D.",
-      "Olff, M.",
-      "van Loey, N. E."
-    ],
-    "year": 2018,
-    "topic": "PTSD Trajectories",
-    "final_inclusions": true,
-    "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ptsd.png",
     "type": "base"
   }
 }
