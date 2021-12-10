@@ -1,0 +1,79 @@
+{
+  "van_de_Schoot_2017": {
+    "dataset_id": "van_de_Schoot_2017",
+    "filepath": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/ptsd.csv",
+    "reference": "https://doi.org/10.1080/10705511.2016.1247646",
+    "link": "https://doi.org/10.17605/OSF.IO/VK4BE",
+    "license": "CC-BY Attribution 4.0 International",
+    "title": "The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies",
+    "authors": [
+      "van de Schoot, R.",
+      "Sijbrandij, M.",
+      "Winter, S. D.", 
+      "Depaoli, S.", 
+      "Vermunt, J. K."
+    ],
+    "year": 2017,
+    "topic": "PTSD Trajectories",
+    "final_inclusions": true,
+    "title_abstract_inclusions": true,
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/ee5f9a88cbf7945c2d6d679385f8605f28b298e9/images/ptsd.png"
+  },
+  "Cohen_2006_ACEInhibitors": {
+    "dataset_id": "Cohen_2006_ACEInhibitors",
+    "filepath": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/ace.csv",
+    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+    "license": "custom open license",
+    "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
+    "authors": [
+      "Cohen, A. M.",
+      "Hersh W. R.",
+      "Peterson, K.",
+      "Yen, P."
+    ],
+    "year": 2006,
+    "topic": "ACEInhibitors",
+    "final_inclusions": false,
+    "title_abstract_inclusions": false,
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/ee5f9a88cbf7945c2d6d679385f8605f28b298e9/images/ace.png"
+  },
+  "Hall_2012": {
+    "dataset_id": "Hall_2012",
+    "filepath": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/hall.csv",
+    "reference": "https://doi.org/10.1109/TSE.2011.103",
+    "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+    "license": "CC-BY Attribution 4.0 International",
+    "title": "A Systematic Literature Review on Fault Prediction Performance in Software Engineering",
+    "authors": [
+      "Hall, T.",
+      "Beecham, S.",
+      "Bowes, D.",
+      "Gray, D.",
+      "Counsell, S."
+    ],
+    "year": 2012,
+    "topic": "Software Fault Prediction",
+    "final_inclusions": true,
+    "title_abstract_inclusions": false,
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/ee5f9a88cbf7945c2d6d679385f8605f28b298e9/images/softwareengineering.png"
+  },
+  "Kwok_2020": {
+    "dataset_id": "Kwok_2020",
+    "filepath": "https://raw.githubusercontent.com/asreview/paper-asreview/4281b4d6f842c0ba028015a81c0bbe7863bc1d69/Simulation/Data/virus.csv",
+    "reference": "https://doi.org/10.3390/v12010107",
+    "link": "https://doi.org/10.17605/OSF.IO/5S27M",
+    "license": "CC-BY Attribution 4.0 International",
+    "title": "Virus Metagenomics in Farm Animals: A Systematic Review",
+    "authors": [
+      "Kwok, K. T. T.",
+      "Nieuwenhuijse, D. F.",
+      "Phan, M. V. T.",
+      "Koopmans, M. P. G."
+    ],
+    "year": 2020,
+    "topic": "Virus Metagenomics",
+    "final_inclusions": true,
+    "title_abstract_inclusions": false
+  }
+}
